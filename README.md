@@ -244,7 +244,7 @@ Seeking opportunities in industrial automation, maintenance engineering, mechani
 
 <br>
 
-<div align="center">
+<div align="left">
 
 📍 Egypt 🇪🇬
 
