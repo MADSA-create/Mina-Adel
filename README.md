@@ -220,21 +220,9 @@ Seeking opportunities in industrial automation, maintenance engineering, mechani
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MADSA-create&show_icons=true&theme=tokyonight" width="47%">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MADSA-create&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADSA-create&layout=compact&theme=tokyonight" width="47%">
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MADSA-create&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58A6FF" width="47%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADSA-create&layout=compact&theme=tokyonight&hide_border=true" width="47%">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADSA-create&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -244,24 +232,20 @@ Seeking opportunities in industrial automation, maintenance engineering, mechani
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mina-adel-539916208">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50"/>
+<a href="https://www.linkedin.com/in/mina-adel-539916208" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/MADSA-create">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50"/>
+<a href="https://github.com/MADSA-create" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+</div>
 
-<a href="#">
-<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="50"/>
-</a>
+<br>
 
-<br><br>
+<div align="center">
 
-### Egypt 🇪🇬
+📍 Egypt 🇪🇬
 
 </div>
