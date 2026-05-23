@@ -36,7 +36,10 @@ Experienced in troubleshooting industrial machines, preventive maintenance, and 
 ---
 
 # ⚡ Core Skills
-
+- Robotics
+- ROS
+- ROS2
+- Linux OS
 ## 🏭 Industrial Automation
 - PLC Programming
 - Industrial Automation
