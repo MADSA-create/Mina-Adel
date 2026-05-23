@@ -230,13 +230,13 @@ Seeking opportunities in industrial automation, maintenance engineering, mechani
 
 # 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/mina-adel-539916208" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
-<a href="https://github.com/MADSA-create" target="_blank">
+<a href="https://github.com/MADSA-create/Mina-Adel" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
