@@ -2,13 +2,16 @@
 
 # Hi, I'm Mina Adel 👋
 
-### Automation & Embedded Systems Engineer
-
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250"/>
-
-### Industrial Automation | PLC | Embedded Systems | PCB Design
+### Mechanical Maintenance & Design Engineer  
+### PLC & Industrial Automation | Embedded Systems | PCB Design | Research & Development
 
 <img src="https://komarev.com/ghpvc/?username=MADSA-create&style=flat&color=blue" />
+
+![PLC](https://img.shields.io/badge/PLC-Automation-blue?style=flat)
+![Embedded](https://img.shields.io/badge/Embedded-Systems-darkgreen?style=flat)
+![PCB](https://img.shields.io/badge/PCB-Design-orange?style=flat)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-Design-red?style=flat)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-black?style=flat)
 
 </div>
 
@@ -16,47 +19,71 @@
 
 # 🚀 About Me
 
-🔹 Automation & Embedded Systems Engineer passionate about industrial technology and smart systems.
+Mechanical & Automation Engineer with experience in:
 
-🔹 Experienced in PLC programming, industrial automation, machine control systems, embedded systems, and PCB design.
+- Mechanical Maintenance
+- Industrial Automation
+- PLC Systems
+- Mechanical Design
+- Embedded Systems
+- PCB Design
+- TPM & Continuous Improvement
 
-🔹 Interested in packaging machines, TPM, continuous improvement, and industrial process optimization.
+Passionate about improving machine performance, increasing production efficiency, and developing smart industrial solutions.
 
-🔹 Passionate about transforming ideas into reliable industrial solutions.
+Experienced in troubleshooting industrial machines, preventive maintenance, and integrating automation with mechanical systems to build reliable and efficient industrial solutions.
 
 ---
 
-# ⚡ Skills & Technologies
+# ⚡ Core Skills
 
 ## 🏭 Industrial Automation
-![PLC](https://img.shields.io/badge/PLC-Automation-blue?style=flat)
-![Siemens](https://img.shields.io/badge/Siemens_PLC-009999?style=flat&logo=siemens&logoColor=white)
-![TIA Portal](https://img.shields.io/badge/TIA_Portal-red?style=flat)
-![HMI](https://img.shields.io/badge/HMI-Industrial-orange?style=flat)
-![Sensors](https://img.shields.io/badge/Sensors-Industrial-success?style=flat)
+- PLC Programming
+- Industrial Automation
+- Sensors & Actuators
+- Motor Control Systems
+- Control Panels
+- Industrial Troubleshooting
 
 ---
 
-## ⚙️ Programming & Embedded Systems
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=flat)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-darkgreen?style=flat)
+## ⚙️ Mechanical Engineering
+- Mechanical Maintenance
+- Mechanical Design
+- Machine Troubleshooting
+- Preventive Maintenance
+- TPM Implementation
+- Continuous Improvement
 
 ---
 
-## 🛠 Mechanical & Design
-![SolidWorks](https://img.shields.io/badge/SolidWorks-red?style=flat)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat)
-![Proteus](https://img.shields.io/badge/Proteus-blueviolet?style=flat)
+## 🔌 Embedded Systems
+- Arduino
+- ESP32
+- STM32 Basics
+- IoT Concepts
+- Smart Monitoring Systems
+
+---
+
+## 🔧 PCB Design
+- PCB Layout Design
+- Circuit Design
+- Electronic Troubleshooting
+- Proteus / KiCad / Altium Basics
+
+---
+
+## 🛠 Software & Tools
+- SolidWorks
+- AutoCAD
+- TIA Portal
+- Proteus
+- Microsoft Office
 
 ---
 
 # 🔥 Featured Projects
-
----
 
 ## 🏭 Automatic Packaging Machine Control System
 
@@ -170,13 +197,19 @@ Participated in TPM and continuous improvement activities focused on reducing do
 
 ---
 
-# 📚 Currently Learning
+# 📚 Certifications & Training
 
-- Structured Text (ST)
-- Advanced PLC Programming
-- Industrial Communication Protocols
-- Advanced Embedded Systems
-- Industrial IoT
+- PLC Programming
+- Industrial Automation
+- Mechanical Maintenance
+- Embedded Systems
+- TPM & Continuous Improvement
+
+---
+
+# 🎯 Career Objective
+
+Seeking opportunities in industrial automation, maintenance engineering, mechanical design, and R&D where I can contribute to operational excellence, smart industrial solutions, and continuous improvement.
 
 ---
 
@@ -194,14 +227,14 @@ Participated in TPM and continuous improvement activities focused on reducing do
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mina-adel-539916208)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MADSA-create)
+- LinkedIn: https://www.linkedin.com/in/mina-adel-539916208
+- GitHub: https://github.com/MADSA-create
+- Location: Egypt
 
 ---
 
 <div align="center">
 
-### ⚡ “Engineering is creating smart solutions for real industrial challenges.”
+### ⚡ Engineering smart industrial solutions for real-world challenges
 
 </div>
