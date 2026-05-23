@@ -228,16 +228,40 @@ Seeking opportunities in industrial automation, maintenance engineering, mechani
 
 ---
 
-# 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/mina-adel-539916208
-- GitHub: https://github.com/MADSA-create
-- Location: Egypt
-
----
+# 📊 GitHub Stats
 
 <div align="center">
 
-### ⚡ Engineering smart industrial solutions for real-world challenges
+<img src="https://github-readme-stats.vercel.app/api?username=MADSA-create&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58A6FF" width="47%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADSA-create&layout=compact&theme=tokyonight&hide_border=true" width="47%">
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mina-adel-539916208">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/MADSA-create">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="#">
+<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="50"/>
+</a>
+
+<br><br>
+
+### Egypt 🇪🇬
 
 </div>
