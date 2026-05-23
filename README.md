@@ -3,8 +3,8 @@
 # Hi, I'm Mina Adel 👋
 
 ### Mechanical Maintenance & Design Engineer  
-### PLC & Industrial Automation | Embedded Systems | PCB Design | Research & Development
-
+### PLC & Industrial Automation | Embedded Systems | PCB Design | R&D
+### TPM & Continuous Improvement | CNC | Robotics | Embedded Linux | Simulation | Electric & Electronics
 <img src="https://komarev.com/ghpvc/?username=MADSA-create&style=flat&color=blue" />
 
 ![PLC](https://img.shields.io/badge/PLC-Automation-blue?style=flat)
